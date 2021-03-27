@@ -10,7 +10,7 @@
 - Create a Search engine that crawls YouTube transcripts
 - Users can search by phrase to get to video excerpts quickly
 - The enging hsould provide a set of videos which contain the phrase or word
-- Please check out the pitch presentation for a better understanding: <h aref='>Pitch presentation YouSearcher
+- Please check out the pitch presentation for a better understanding: <a href='https://github.com/moritzgeiger/YouSearcher/blob/master/notebooks/YouSearcher_pitch.pdf'>Pitch presentation YouSearcher</a>
 
 # About the Dataset
 ~ 4,000 US videos from Kaggle dataset
